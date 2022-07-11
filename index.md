@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/IvSan/the_pilot_book/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Read the [[Stavoren.md|Stavoren]].
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
